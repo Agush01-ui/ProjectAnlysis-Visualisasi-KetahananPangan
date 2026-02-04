@@ -38,6 +38,9 @@ Data visualization simplifies complex datasets into clear and interpretable visu
 
 ---
 
-## 🔗 Project Repository
-Full project and analysis available on GitHub:  
-👉 https://github.com/Agush01-ui/ProjectAnlysis-Visualisasi-KetahananPangan
+## 👤 Author
+
+**Agus Saputra Hamzaah**  
+Data Analytics & Visualization Enthusiast  
+
+🔗 LinkedIn: https://www.linkedin.com/in/agus-saputra-hamzah-0809702ab
