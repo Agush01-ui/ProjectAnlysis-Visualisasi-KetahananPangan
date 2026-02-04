@@ -1,71 +1,43 @@
-## 🐍 Data Analysis with Python
+# 📊 Food Security Data Analysis & Visualization (Python)
 
-This section of the project focuses on **data processing, analysis, and visualization using Python**.  
-The goal is to transform raw data into structured insights that help understand patterns, trends, and key indicators related to the dataset.
+This project focuses on **analyzing and visualizing food security data** using Python to understand patterns, trends, and conditions that influence food stability.
 
-Python was used not only for visualization, but also for **data cleaning, transformation, and analytical computation**.
-
----
-
-### ⚙️ Analysis Workflow
-
-The analysis process includes:
-
-1. **Data Cleaning**
-   - Handling missing values  
-   - Formatting data types  
-   - Removing inconsistencies  
-
-2. **Data Transformation**
-   - Aggregating data  
-   - Creating calculated metrics  
-   - Grouping variables for comparison  
-
-3. **Exploratory Data Analysis (EDA)**
-   - Identifying trends and distributions  
-   - Comparing categories  
-   - Detecting patterns and anomalies  
-
-4. **Data Visualization**
-   - Converting analysis results into visual form  
-   - Making insights easier to interpret  
+The goal of this analysis is to transform raw data into meaningful visual insights, making complex information easier to understand and interpret.
 
 ---
 
-### 📊 Analysis & Visualization Output
-
-Below are examples of the visual results generated from Python analysis:
-
-#### 🔹 Visualization Result 1
-![Python Analysis Visualization 1](https://github.com/Agush01-ui/ProjectAnlysis-Visualisasi-KetahananPangan/blob/main/8.png?raw=true)
-
-This visualization highlights key comparisons within the dataset and helps identify distribution patterns and category performance.
+## 🎯 Project Objectives
+- Explore food security data  
+- Identify key patterns and trends  
+- Present analytical results through data visualizations  
+- Support data-driven understanding and decision-making  
 
 ---
 
-#### 🔹 Visualization Result 2
-![Python Analysis Visualization 2](https://github.com/Agush01-ui/ProjectAnlysis-Visualisasi-KetahananPangan/blob/main/9.png?raw=true)
-
-This chart supports deeper analysis by showing trends and relationships between important variables in the dataset.
-
----
-
-### 🛠 Libraries Used
-
-- **Pandas** — data manipulation & cleaning  
-- **NumPy** — numerical operations  
-- **Matplotlib** — data visualization  
-- **Seaborn** — statistical plotting  
+## 🛠 Tools & Technologies
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Data Visualization Techniques  
 
 ---
 
-### 🎯 Purpose of This Analysis
+## 📈 Visualization Results
 
-This Python-based analysis demonstrates how raw data can be:
+The insights from the analysis are presented through the following visualizations:
 
-✔ cleaned and structured  
-✔ explored to find patterns  
-✔ visualized for better understanding  
-✔ transformed into meaningful insights  
+![Food Security Visualization 1](https://github.com/Agush01-ui/ProjectAnlysis-Visualisasi-KetahananPangan/blob/main/8.png?raw=true)
 
-The focus of this work is to show practical skills in **data analytics, exploratory analysis, and data-driven storytelling using Python**.
+![Food Security Visualization 2](https://github.com/Agush01-ui/ProjectAnlysis-Visualisasi-KetahananPangan/blob/main/9.png?raw=true)
+
+---
+
+## 💡 Key Takeaway
+Data visualization simplifies complex datasets into clear and interpretable visuals. Through this project, food security data can be understood more effectively, helping reveal important conditions and trends.
+
+---
+
+## 🔗 Project Repository
+Full project and analysis available on GitHub:  
+👉 https://github.com/Agush01-ui/ProjectAnlysis-Visualisasi-KetahananPangan
